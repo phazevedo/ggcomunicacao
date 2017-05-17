@@ -1,0 +1,71 @@
+seção apresentação:
+- enviar imagem de apresentação para o Gu e pedir para ele transformar em PB e deixar com menos opacidade
+
+- MENU:
+- inserir pipes, igual:https://www.eggandbacon.com.br/
+- tirar o logo da barra de menu e colocar junto a seção da apresentação, no estilo do egg and bacon
+- alterar a cor da navbar para preto ou cinza, com bastante opacidade e deixar ela mais alta
+- aumentar a fonte do menu e colocar em caixa alta
+
+*
+- altrar fonte do site todo para a EXO igual da landing page (verificar variações da fonte EXO para ver qual melhor se encaixa)
+
+- QUEM SOMOS:
+- deixar apenas uma quebra de linha entre os paragrafos
+- dar mais espaço entre o titulo
+- centralizar titulo "quem somos" junto ao texto abaixo
+
+- NOSSA EQUIPE (TIME):
+- altera para "nosso time" 
+- aumentar bem a fonte
+- adicionar um subtítulo: "Conheça um pouco mais sobre nossos colaboradores"
+- alterar BIO durante o efeito de hover, caixa com o conteúdo deve aparecer abaixo da pessoa com as bordas ovaladas
+
+- O QUE FAZEMOS:
+- aumentar a fonte do título e subtítulo
+- descer as imagens e alinhá-las
+- fazer efeito de fade in nas imagens
+
+- NOSSOS CLIENTES:
+- trocar cor de fundo da seção para branco
+- aumentar a fonte do titulo
+usar como base: https://www.eggandbacon.com.br/ para a seção de clientes
+- usar o ícone de contato
+- colocar borda em volta das imagens dos clientes de cor preta
+- adicionar imagem da seta igual da lading page da GG no canto direito
+
+- DEPOIMENTOS:
+- 3 caixa alinhadas com fundo branco e detalhe das aspas igual: https://themeisle.com/demo/?theme=Zerif%20Lite
+- subir titulo e aumentar fonte
+
+- RODAPÉ:
+- inserir na caixa do lado do endereço o email
+- tirar a segunda box de "outras infos" deixar apenas 3
+- maior espaço entre os ícones das redes sociais
+- deixar só o facebook e de cor preto e escrever na frente "Siga a GG Comunicação - icone"
+- diminuir a altura do rodapé
+- inserir copyright
+
+##################################################################################################
+Ajustes:
+
+- diminuir o tamanho do menu até chegar nos pipes, igual a distância do topo : feito
+
+- espaçar os textos da seção "o que fazemos?" :feito
+- dar mais distância do título "quem somos?" e aumentar a fonte para se igualar as demais seções :feito
+- dar espaço de uma quebra de linha no "quem somos?" e alinhar a esquerda :feito
+- diminuir o icone de comunicação, usar a fonte do título como referência: feito
+- manter apenas o segundo ícone :feito
+- alterar a cor para escala de cinza dos ícones das redes sociais e dar mais espaço entre eles:feito
+- cor de fundo seção o que fazemos = #6b0000 :feito
+- inserir modal para cada cliente com conteudo extra
+- retirar os quadrados dos depoimentos, alterar cor do texto para branco e pegar a cor vermelha igual da seção "o que fazemos":feito
+- rodapé mudar cor para preto e icone do face branco:feito
+- adicionar setas no canto direito do rodapé:feito
+- siga-me os bons junto as redes sociais:feito
+
+A fazer:
+- adicionar carousel para os clientes sendo esse carousel dividido em 2 mostrando logo do cliente e uma imagem de cliping
+- adicionar fade-in no texto do integrante do time
+- alterar as grids do "time" para 4 espaços
+
