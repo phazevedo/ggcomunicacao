@@ -2174,7 +2174,7 @@
 
 /* Underline From Center */
 .hvr-underline-from-center {
-  display: inline-block;
+  display: block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
@@ -2189,7 +2189,7 @@
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: #2098D1;
+  background: #6b0000;
   height: 4px;
   -webkit-transition-property: left, right;
   transition-property: left, right;
