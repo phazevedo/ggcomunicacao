@@ -56,7 +56,6 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
 	}
 
 	#apresentacao{
@@ -114,28 +113,16 @@
 		font-weight: bold;
 	}
 
-	#vinni:hover #vinnibio{
-		display: block;
-	}
-
 	#rafabio{
 		margin-top: 10px;
 		display: none;
 		font-weight: bold;
 	}
 
-	#rafa:hover #rafabio{
-		display: block;
-	}
-
 	#jaobio{
 		margin-top: 10px;
 		display: none;
 		font-weight: bold;
-	}
-
-	#jao:hover #jaobio{
-		display: block;
 	}
 
 	#oquefazemos{

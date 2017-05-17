@@ -1,5 +1,17 @@
 $("#vinni").hover(function(){
-    $('#vinnibio').removeClass('hidden');
+    $('#vinnibio').fadeIn();
 },function(){
-    $('#vinnibio').addClass('hidden');
+    $('#vinnibio').fadeOut();
+});
+
+$("#rafa").hover(function(){
+    $('#rafabio').fadeIn();
+},function(){
+    $('#rafabio').fadeOut();
+});
+
+$("#jao").hover(function(){
+    $('#jaobio').fadeIn();
+},function(){
+    $('#jaobio').fadeOut();
 });
